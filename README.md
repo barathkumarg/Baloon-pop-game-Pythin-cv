@@ -3,12 +3,24 @@ EXPERIMENT: BALLOON POP GAME IN OPENCV PYTHON TEST CASE:
 RESULT: PASSED
 
 
+
+
+![image](https://user-images.githubusercontent.com/53963652/200224924-4a3a2c91-b9b8-4580-8869-770776e55821.png)
+
+
+
+
+
+
+
+
  
 2.	Pop Scenario when the balloon comes to contact
  	 RESULT: PASSED
 
 
 
+![image](https://user-images.githubusercontent.com/53963652/200225047-7f4eef64-4d18-4a72-86fb-ea116ebe9a80.png)
 
 
 
@@ -17,14 +29,6 @@ RESULT: PASSED
 
 
  
-3.	Hand Gesture Recognition at typical angle
- RESULT: Failed
-
- 
-
-
-4.	ONE HAND DETECTED ONCE 
-RESULT: FAILED
 
 
 
